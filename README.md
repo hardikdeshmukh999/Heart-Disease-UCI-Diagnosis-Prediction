@@ -1,3 +1,9 @@
+## License
+[MIT LICENSE](https://github.com/smarthardik10/Heart-Disease-UCI-Diagnosis-Prediction/blob/master/LICENSE)
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
 ## Links
 
 Blog: https://towardsdatascience.com/heart-disease-uci-diagnosis-prediction-b1943ee835a7
