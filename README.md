@@ -6,9 +6,11 @@
 
 ## Links
 
-Blog: https://towardsdatascience.com/heart-disease-uci-diagnosis-prediction-b1943ee835a7
+Blog link:
+[![Medium: ](https://img.icons8.com/ios-filled/25/000000/medium-monogram.png)](https://towardsdatascience.com/heart-disease-uci-diagnosis-prediction-b1943ee835a7)
 
-Notebook link: https://colab.research.google.com/drive/16iFRPq0vx_CZypo4ZyJ_qTLrvds3FlDb?usp=sharing
+Notebook link:
+[![Open In Colab: ](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16iFRPq0vx_CZypo4ZyJ_qTLrvds3FlDb?usp=sharing)
 
 ## Blog - Towards Data Science
 
